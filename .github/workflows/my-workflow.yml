@@ -13,3 +13,5 @@ jobs:
         uses: ./.github/actions/hello-world
         with:
           first-greeting: "Learning Lab User"
+          second-greeting: "test2"
+          third-greeting: "test3"
